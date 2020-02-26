@@ -40,7 +40,7 @@
 		</dependency>
 
 		<dependency>
-			<groupId>ch.qow.logback</groupId>
+			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
 		</dependency>
 
